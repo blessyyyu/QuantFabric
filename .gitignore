@@ -4,3 +4,4 @@
 /relase/
 /debug/
 *.log
+.vscode/
